@@ -1,0 +1,47 @@
+/Users/ana/Downloads/human_eval_package/Codigo/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+33 items afectados agrupados en 4 audios unicos a retranscribir
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 87381.33it/s]
+Token indices sequence length is longer than the specified maximum sequence length for this model (19703 > 8192). Running this sequence through the model will result in indexing errors
+[1/4] 16 items <- 54498aea-c4c6-48cc-b959-7d6464b24e24/transcription_1: 76263 chars | 'Hey, hey, ¿qué tal estáis, amigas? No os esperabais verme por aquí, ¿verdad? O sí, no lo sé, no sé q'
+[2/4] 9 items <- 3de59f9d-f541-4113-a0b6-53b81c6cfef8/transcription_1: 33835 chars | 'nueva semana y empezamos viniendo a tomarnos las medidas que a mí nunca me las habían tomado y es co'
+[3/4] 5 items <- a8f1b0aa-5008-4886-9acb-e05cc9c6d4ad/transcription_1: 593 chars | 'Estás enterrado. Si. Estás enterrado. Estás enterrado. Estás enterrado. Estás enterrado. Estás enter'
+[4/4] 3 items <- 1327604a-d703-4a19-ad2f-d782b2ae1ba1/transcription_1: 12730 chars | '¡Suscríbete al canal! Un hombre no es monboso, un hombre no es obvio a eso, dice que me mata, un hom'
+
+Dataset actualizado: /Users/ana/Downloads/human_eval_package/Codigo/ESCUCHA1.json
+Cargando LLM: /Users/ana/Downloads/human_eval_package/Codigo/models/salamandra-2b-instruct-mlx-4bit
+[1/33] 025bff20-22b7-45f3-83c0-842777175445: '2. Jame' -> '2. Jame'
+[2/33] 06382d14-2498-463b-8c5c-48ed3c003906: '2. Ninguna' -> '2. Ninguna'
+[3/33] 0d4cbba3-a987-4a40-876c-e06b88864be1: '2. Todas son correctas' -> '2. Todas son correctas'
+[4/33] 0e68791a-2ee6-4b29-8680-ff8ee69b71de: '2. No se sabe' -> '2. No se sabe'
+[5/33] 1327604a-d703-4a19-ad2f-d782b2ae1ba1: '2. En un concierto' -> '2. En un concierto'
+[6/33] 19fd2229-c8c7-4da1-999d-069216379886: '2. Pimientos, cebollas y ajos' -> '2. Pimientos, cebollas y ajos'
+[7/33] 22148661-7edd-405a-9fc5-e2dc95528512: '2. Kiko' -> '2. Kiko'
+[8/33] 2a9e8276-0c69-4352-b0e1-c7dfbe652068: '2. 8.0' -> '2. 8.0'
+[9/33] 2c7fa3e1-d101-440b-9c63-fec8071e77bb: '1. En una discoteca' -> '2. En casa'
+[10/33] 2cbfde75-ee05-49cb-ba20-b9a386cb3347: '2. A Japón y Colombia' -> '2. A Japón y Colombia'
+[11/33] 30d9372a-9a7d-45cc-acf5-2861e453ff19: '2. Está confundido porque no sabe qué bebida es.' -> '2. Está confundido porque no sabe qué bebida es.'
+[12/33] 32e1d7c0-dadf-4fe9-a974-2a4fe5276fd2: '2. De hacer un viaje por las 7 ciudades más antiguas' -> '2. De hacer un viaje por las 7 ciudades más antiguas'
+[13/33] 3de59f9d-f541-4113-a0b6-53b81c6cfef8: '2. La chica que más habla' -> '2. La chica que más habla'
+[14/33] 401b48b7-285e-43d4-933f-b3c019b69942: '2. A una persona le han intentado robar y la víctima ha reducido al ladrón.' -> '2. A una persona le han intentado robar y la víctima ha reducido al ladrón.'
+[15/33] 4fd8b12d-917e-4f6e-9515-fddc50acfaab: '2. el chico que habla poco' -> '2. el chico que habla poco'
+[16/33] 4fe5184e-232a-41b1-965c-86093d7f768c: '2. Fizpi' -> '2. Fizpi'
+[17/33] 54498aea-c4c6-48cc-b959-7d6464b24e24: '2. Dos hermanas están hablando con sus primos y un conocido de la familia.' -> '2. Dos hermanas están hablando con sus primos y un conocido de la familia.'
+[18/33] 56d98629-e78a-439b-928d-358aa1ac9b23: '2. Es la recepcionista del hotel' -> 'La respuesta es la opcion 2. Es la recepcionista del hotel.'
+[19/33] 690fc1fc-1ced-4d7c-b624-e9cbfa28c67d: '2. Kiko' -> '2. Kiko'
+[20/33] 7245515d-ddbc-4bf3-944c-be4b0b9dc646: 'No, no lo hace.' -> 'No me lo voy a besar, que no me manda a mi Dios ese, dice que me mata No me lo voy a besar, que no me manda a mi Dios ese, dice que me mata Dice, yo no voy de mafioso, y no sé qué te pasa, yo sé que te molesta que son hermosas hasta en tu casa, solo eres guasa guasa, y yo estaba de paso, y no sé qué pasa, que se te nota envidioso, si te pica rasca, salimos de pesca, se está con el casco, aunque luego cascas todo lo que aquí pasó, Cogiendo el camino, policía cancino Fuga por los pinos o por torres y a molinos A los de la costa, de sol de gusto Dinero no cuesta, fuga caga en el arbusto Te gusta la pasta, y sin dar pistas Tiran y le cuesta Gracias por ver el video. ¡Suscríbete al canal! ¡Oh, no, no, no! ¡Suscríbete al canal! ¡Oh, no, no, no!'
+[21/33] a4e34646-0801-451d-bf25-bb6496a27f29: '4. Jaime' -> '4. Jaime'
+[22/33] a8f1b0aa-5008-4886-9acb-e05cc9c6d4ad: '2. Es el ruido de los frenos de un coche' -> '2. Es el ruido de los frenos de un coche'
+[23/33] ab086797-324f-4ecb-b5e0-1de14a993b00: '1. Todas las opciones son correctas' -> '1. Todas las opciones son correctas'
+[24/33] b3026629-1401-47ab-876f-f12dd948efaf: '2. Afirmar que ha cambiado sus hábitos de consumo.' -> '2. Afirmar que ha cambiado sus hábitos de consumo.'
+[25/33] ba27353f-75cd-4973-bb0c-83499fd1d183: '2. Trabajan juntos' -> '2. Trabajan juntos'
+[26/33] c1ce983e-78c1-4a11-951e-dc753eb38b72: '2. ColdCulture' -> '2. ColdCulture'
+[27/33] cc2ea877-4a9d-4faf-acca-25fb7cf44bb9: '2. tía' -> '2. tía'
+[28/33] cd4cd0fa-97cd-4768-b4a7-5d77d4cf04aa: '4. Nadie' -> '2. Carlota y Carlos'
+[29/33] ce98ffd2-803d-465a-8394-a9ef413176f6: '2. Que una persona no puede respirar' -> '2. Que una persona no puede respirar'
+[30/33] d4c67ea3-e22e-44bd-ba37-ec0bae91e003: '2. Es que ese es nuestro rollo' -> '2. Es que ese es nuestro rollo'
+[31/33] e9ab83c8-b2df-4b4c-8513-35e7b50eb0cc: '2. Un chico joven' -> '2. Un chico joven'
+[32/33] eaddc5f4-16fb-45d6-9f3c-c7cdef4e64eb: '2. Al hotel' -> '2. Al hotel'
+[33/33] fd9a7404-9b9d-4fb3-a61e-028ea919933d: 'Sección 1: Escucha las instrucciones del audio.\n- ¿Qué es? (Pregunta)\n- Bueno, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar, te vas a dañar.\n- Bueno, empácame, empácame, empácame, empácame, empácame, empácame, empácame, empácame, empácame.\n- Bueno, empújate, empújate, empúdcate, empújade, empuja.\n- Bueno, apúntate, apuntate, apuntáte, apuntádevos, apuntátese.\n- Bueno, apúntate, apuntate, apuntáte, apuntádevos, apuntátese.\n- Bueno, apúntate, apuntate, apuntáte, apuntádevos, apuntátese.\n- Bueno, apúntate, apuntate, apuntáte, apuntádevos, apuntátese.\n- Bueno, apúntate,' -> 'Sección E.1: Escucha las instrucciones del audio y responde.'
+
+Resultados actualizados: /Users/ana/Downloads/human_eval_package/Codigo/results/cascade-salamandra-escucha1-responses.json
